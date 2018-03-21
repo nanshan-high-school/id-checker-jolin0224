@@ -12,53 +12,77 @@ int main(){   
     }    
     if(EnglishWord = 'B'){        
         EnglishNumber = 11;    
-    }    if(EnglishWord = 'C'){        
+    }   
+    if(EnglishWord = 'C'){        
         EnglishNumber = 12;   
-    }    if(EnglishWord = 'D'){        
+    }    
+    if(EnglishWord = 'D'){        
         EnglishNumber = 13;   
-    }    if(EnglishWord = 'E'){        
+    }    
+    if(EnglishWord = 'E'){        
         EnglishNumber = 14;   
-    }    if(EnglishWord = 'F'){
+    }    
+    if(EnglishWord = 'F'){
         EnglishNumber = 15; 
-    }    if(EnglishWord = 'G'){  
+    }    
+    if(EnglishWord = 'G'){  
         EnglishNumber = 16;  
-    }    if(EnglishWord = 'H'){  
+    }    
+    if(EnglishWord = 'H'){  
         EnglishNumber = 17;   
-    }    if(EnglishWord = 'J'){  
+    }    
+    if(EnglishWord = 'J'){  
         EnglishNumber = 18; 
-    }    if(EnglishWord = 'K'){ 
+    }    
+    if(EnglishWord = 'K'){ 
         EnglishNumber = 19; 
-    }    if(EnglishWord = 'L'){   
+    }  
+    if(EnglishWord = 'L'){   
         EnglishNumber = 20; 
-    }    if(EnglishWord = 'M'){ 
+    }    
+    if(EnglishWord = 'M'){ 
         EnglishNumber = 21; 
-    }    if(EnglishWord = 'N'){  
+    }  
+    if(EnglishWord = 'N'){  
         EnglishNumber = 22;    
-    }    if(EnglishWord = 'P'){   
+    }  
+    if(EnglishWord = 'P'){   
         EnglishNumber = 23; 
-    }    if(EnglishWord = 'Q'){ 
+    } 
+    if(EnglishWord = 'Q'){ 
         EnglishNumber = 24;  
-    }    if(EnglishWord = 'R'){  
+    }  
+    if(EnglishWord = 'R'){  
         EnglishNumber = 25;  
-    }    if(EnglishWord = 'S'){ 
+    }  
+    if(EnglishWord = 'S'){ 
         EnglishNumber = 26; 
-    }    if(EnglishWord = 'T'){ 
+    } 
+    if(EnglishWord = 'T'){ 
         EnglishNumber = 27; 
-    }    if(EnglishWord = 'U'){  
+    } 
+    if(EnglishWord = 'U'){  
         EnglishNumber = 28;
-    }    if(EnglishWord = 'V'){
+    } 
+    if(EnglishWord = 'V'){
         EnglishNumber = 29; 
-    }    if(EnglishWord = 'X'){ 
+    }   
+    if(EnglishWord = 'X'){ 
         EnglishNumber = 30;   
-    }    if(EnglishWord = 'Y'){ 
+    } 
+    if(EnglishWord = 'Y'){ 
         EnglishNumber = 31;  
-    }    if(EnglishWord = 'W'){  
+    }  
+    if(EnglishWord = 'W'){  
         EnglishNumber = 32; 
-    }    if(EnglishWord = 'Z'){  
+    }  
+    if(EnglishWord = 'Z'){  
         EnglishNumber = 33; 
-    }    if(EnglishWord = 'I'){   
+    }   
+    if(EnglishWord = 'I'){   
         EnglishNumber = 34; 
-    }    if(EnglishWord = 'O'){
+    }   
+    if(EnglishWord = 'O'){
         EnglishNumber = 35;   
     }   
  
