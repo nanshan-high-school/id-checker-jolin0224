@@ -61,9 +61,11 @@ int main(){   
     }    if(EnglishWord = 'O'){
         EnglishNumber = 35;   
     }   
+ 
     int IDnumber;  
     cout << "請輸入身分證數字"; 
-    cin >> IDnumber;  
+    cin >> IDnumber;
+ 
     int n3 = IDnumber/100000000;  
     int n4 = IDnumber/10000000 - n3*10;
     int n5 = IDnumber/1000000 - n4*100;  
@@ -72,7 +74,8 @@ int main(){   
     int n8 = IDnumber/1000 - n7*100000;  
     int n9 = IDnumber/100 - n8*1000000;  
     int n10 = IDnumber/10 - n7*10000000; 
-    int n11 = IDnumber/1 - n7*100000000; 
+    int n11 = IDnumber/1 - n7*100000000;
+ 
     if((EnglishNumber/10 + EnglishNumber%10*9 + n3*8 + n4*7 + n5*6 + n6*5 + n7*4 + n8*3 + n9*2 + n10*1 + n11*1)%10 == 0){ 
         cout << "有此人";   
     }else{ 
