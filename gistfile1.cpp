@@ -2,9 +2,11 @@
 using namespace std;
 int main(){    
     char EnglishWord;
-    int EnglishNumber;        
+    int EnglishNumber;
+ 
     cout << "請輸入身分證英文";    
-    cin >> EnglishNumber;        
+    cin >> EnglishNumber;  
+ 
     if(EnglishWord = 'A'){        
         EnglishNumber = 10;    
     }    
